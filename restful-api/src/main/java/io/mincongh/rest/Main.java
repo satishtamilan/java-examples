@@ -43,6 +43,11 @@ public class Main {
   static final String HTTP_BASIC_AUTH_URI = BASE_URI + "/basic-auth";
 
   /**
+   * @see DigestAuthExample
+   */
+  static final String HTTP_DIGEST_AUTH_URI = BASE_URI + "/digest-auth";
+
+  /**
    * Starts Grizzly HTTP server exposing JAX-RS resources defined in this application. Firstly,
    * create a resource configuration that scans for JAX-RS resources and providers in
    * {@code io.mincongh.rest} package. Then, create and start a new instance of grizzly http server
