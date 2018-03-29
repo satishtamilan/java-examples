@@ -52,6 +52,7 @@
     <module>regex</module>
     <module>restful-api</module>
     <module>selenium</module>
+    <module>string</module>
     <module>testing/assertj</module>
     <module>testing/junit</module>
     <module>xml</module>

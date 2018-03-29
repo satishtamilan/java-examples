@@ -27,6 +27,7 @@ Mock | Different mocking frameworks, e.g. Mockito, Easy Mock and Power Mock.
 Regex | Regular expressions.
 Rest | RESTful API using [Jersey][jersey].
 Selenium | Functional tests using Selenium.
+String | Emulation for string formatter.
 XML | XML serialization and XML path language (XPath).
 
 ## Code Style
