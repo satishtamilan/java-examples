@@ -33,7 +33,7 @@ import javax.ws.rs.core.Response.Status;
  * the site, it can send back an HTTP 401 Login Required response
  * code to the browser. The browser will then display a login dialog
  * box and supply the information in the next request to the browser,
- * using the "Authorization" header.
+ * using the "Authorization" headers.
  *
  * @author Mincong Huang
  */
